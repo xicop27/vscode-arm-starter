@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "arm-starter.helloWorld",
-        "title": "Hello World"
+        "command": "arm-starter.createProject",
+        "title": "ARM: Create Project"
       }
     ]
   },
